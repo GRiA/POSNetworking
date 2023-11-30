@@ -1,3 +1,3 @@
-github "cloud-ios-tech/ReactiveObjC" "master"
+github "GRiA/ReactiveObjC" "0.1.1.2"
 github "cloud-ios-tech/POSErrorHandling" "master"
 gitHub "GRiA/POSScheduling" "master"
