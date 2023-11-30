@@ -1,4 +1,4 @@
-github "cloud-ios-tech/Aspects" "c3125c5063748c6aa80f18cce54ecc128b51ba8f"
-github "cloud-ios-tech/POSErrorHandling" "51d98e37ba8ccbc991ae9acfaec93b34663a8d06"
-github "cloud-ios-tech/POSScheduling" "fae8a6164eefc12ef1c44ad144a0bdcd14ebe727"
-github "cloud-ios-tech/ReactiveObjC" "0ae7e8de116609698a444b45ff41e10bb7436315"
+github "GRiA/Aspects" "0.1.1.2"
+github "GRiA/POSScheduling" "8feba13b31bf7125e90944faa8ef40c9c80847f7"
+github "GRiA/ReactiveObjC" "0.1.1.2"
+github "cloud-ios-tech/POSErrorHandling" "d8b5dfadcc9aa7d3694f51c2e9b138d9b7ccccb2"
